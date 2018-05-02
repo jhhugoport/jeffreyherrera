@@ -1,7 +1,7 @@
 ---
 title: 2017 Has Been a Wild One. - The Playlist
 PostType: Things I Love
-feature: posts/playlists/2017-Playlist.png
+feature: /posts/playlists/2017-Playlist.png
 date: "2017-12-28"
 aliases:
   - /2017/12/28/2017-has-been-a-wild-one.html

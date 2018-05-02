@@ -1,7 +1,7 @@
 ---
 title: Monthly Playlists
 PostType: Monthly Project
-feature: posts/playlists/Latest.jpg
+feature: /posts/playlists/Latest.jpg
 date: "2018-03-27"
 aliases:
   - /2018/03/27/Monthly-Playlists.html

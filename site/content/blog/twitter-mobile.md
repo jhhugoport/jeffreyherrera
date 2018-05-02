@@ -1,7 +1,7 @@
 ---
 title: Twitter Mobile > Twitter Desktop
 PostType: Quick Tips
-feature: posts/twitter-mobile/twitter-post.jpg
+feature: /posts/twitter-mobile/twitter-post.jpg
 full: true
 date: "2017-07-24"
 ---
