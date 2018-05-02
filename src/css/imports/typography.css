@@ -1,0 +1,111 @@
+
+/**********************************************************/
+/*********************** TYPOGRAPHY ***********************/
+/**********************************************************/
+
+
+body{
+  font-family: 'Inter', sans-serif;
+  font-feature-settings: "kern","liga","dlig","hlig","cswh" 1;
+  line-height: 1.5em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p{
+  line-height: 1.5em;
+}
+
+.caption{
+  font-size: $font-s;
+  letter-spacing: $font-s-tracking;
+  margin-top: 4px;
+}
+
+h1,h2,h3,h4,h5{
+  font-weight: normal;
+  margin: 0;
+  color: $c-gray-dark;
+}
+
+h1{
+  font-size: 50px;
+  letter-spacing: -0.016em;
+  line-height: 1.15em;
+}
+h2{
+  font-size: 40px;
+  letter-spacing: -0.016em;
+  line-height: 1.2em;
+}
+h3{
+  font-size: 30px;
+  letter-spacing: -0.015em;
+  line-height: 1.2em;
+}
+h4{
+  font-size: 24px;
+  letter-spacing: -0.01em;
+  line-height: 1.3em;
+}
+h5{
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  line-height: 1.4em;
+}
+blockquote{
+  background-color: white;
+  margin: 0 $gutter2 0 0;
+  padding: $gutter2 $gutter3;
+  position: relative;
+  box-shadow: 20px 0 30px -20px rgba(29, 0, 80, 0.1);
+}
+
+blockquote p{
+  margin-top: 0 !important;
+}
+blockquote p:last-of-type{
+  margin-bottom: 0 !important;
+}
+
+
+blockquote svg{
+  position: absolute;
+  top: 0;
+  right: -32px;
+  z-index: -1;
+}
+
+/* Mobile Typography */
+@media (--m){
+
+  h1{
+    font-size: 40px;
+    line-height: 1.2em;
+  }
+  h2{
+    font-size: 30px;
+    letter-spacing: -0.015em;
+    line-height: 1.2em;
+  }
+  h3{
+    font-size: 24px;
+    letter-spacing: -0.01em;
+    line-height: 1.3em;
+  }
+  h4{
+    font-size: 20px;
+    letter-spacing: -0.01em;
+    line-height: 1.4em;
+  }
+
+  p{
+    font-size: 14px;
+  }
+
+  .caption{
+    font-size: 11px;
+    letter-spacing: 0.03em;
+  }
+
+}

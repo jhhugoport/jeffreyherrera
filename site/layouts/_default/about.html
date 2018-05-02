@@ -1,0 +1,11 @@
+{{ $.Scratch.Add "dark" true }}
+
+{{ partial "head" . }}
+<div class="site">
+  {{ partial "header" . }}
+  <main class="main about">
+      {{ .Content }}
+  </main>
+
+  {{ partial "footer" . }}
+</div>

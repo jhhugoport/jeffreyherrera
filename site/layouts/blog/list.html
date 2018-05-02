@@ -1,0 +1,46 @@
+{{ partial "head" . }}
+<div class="site">
+  {{ partial "header" . }}
+  <main class="main">
+    <div class="main__header">
+      <a class="main__header--link" href="/">
+        <div class="main__header--logo">
+          {{ partial "logo" . }}
+        </div>
+      </a>
+    </div>
+    <div class="posts">
+      {{ range .Data.Pages }}
+
+        {{if isset .Params "full"}}
+        <div class="posts__item--full">
+          <div class="fullpost__content">
+            <p class="caption fullpost__item--meta">
+              <span class="meta__type"><b>{{.Params.PostType}}</b></span> <span class="meta__separator">/</span> <span class="meta__date">{{.Date.Format "Monday, Jan 2, 2006"}}</span>
+            </p>
+            <h5 class="posts__item--title">{{.Title}}</h5>
+            <div class="fullpost__content--inside">
+              <p>—</p>
+              {{.Content}}
+            </div>
+          </div>
+          {{ partial "share" . }}
+        </div>
+        {{else}}
+        <a class="posts__item" href="{{.Permalink}}">
+          <div class="posts__item--content">
+            <p class="caption posts__item--meta">
+              <span class="meta__type"><b>{{.Params.PostType}}</b></span> <span class="meta__separator">/</span> <span class="meta__date">{{.Date.Format "Monday, Jan 2, 2006"}}</span>
+            </p>
+            <h5 class="posts__item--title">{{.Title}}</h5>
+          </div>
+          <div class="posts__item--image" style="background-image: url('/img/{{.Params.feature}}')"></div>
+        </a>
+        {{ end }}
+
+      {{ end }}
+    </div>
+  </main>
+
+  {{ partial "footer" . }}
+</div>

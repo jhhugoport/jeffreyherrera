@@ -1,0 +1,12 @@
+{{ partial "head" . }}
+<div class="site">
+  {{ partial "header__work" . }}
+  <main class="main">
+    <div class="work">
+      <h3 style="color: #{{.Params.color}}">{{.Title}}</h3>
+      {{ .Content }}
+    </div>
+  </main>
+
+  {{ partial "footer" . }}
+</div>

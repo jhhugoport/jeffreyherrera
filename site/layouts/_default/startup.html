@@ -1,0 +1,58 @@
+{{ partial "head" . }}
+<div class="site">
+  {{ partial "header" . }}
+  <main class="main cont">
+    <div class="main__header">
+      <a class="main__header--link" href="/">
+        <div class="main__header--logo">
+          {{ partial "logo" . }}
+        </div>
+      </a>
+    </div>
+    <div class="startup">
+      <div class="startup__container">
+        <div class="startup__list--header">Design</div>
+        <ul class="startup__list">
+          {{ range .Site.Data.startup.design }}
+          <li>
+            <a href="{{ .url }}"><img src="https://www.google.com/s2/favicons?domain_url={{.url}}" /><p class="caption">{{ .name }}</p></a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="startup__container">
+        <div class="startup__list--header">Misc</div>
+        <ul class="startup__list">
+          {{ range .Site.Data.startup.misc }}
+          <li>
+            <a href="{{ .url }}"><img src="https://www.google.com/s2/favicons?domain_url={{.url}}" /><p class="caption">{{ .name }}</p></a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="startup__container">
+        <div class="startup__list--header">Dev</div>
+        <ul class="startup__list">
+          {{ range .Site.Data.startup.dev }}
+          <li>
+            <a href="{{ .url }}"><img src="https://www.google.com/s2/favicons?domain_url={{.url}}" /><p class="caption">{{ .name }}</p></a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="startup__container">
+        <div class="startup__list--header">Level Up</div>
+        <ul class="startup__list">
+          {{ range .Site.Data.startup.levelup }}
+          <li>
+            <a href="{{ .url }}"><img src="https://www.google.com/s2/favicons?domain_url={{.url}}" /><p class="caption">{{ .name }}</p></a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    {{ .Content }}
+  </main>
+
+  {{ partial "footer" . }}
+</div>

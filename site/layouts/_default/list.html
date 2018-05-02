@@ -1,0 +1,12 @@
+{{ partial "head" . }}
+<div class="site">
+  {{ partial "header" . }}
+  <main class="main">
+      {{ .Content }}
+      {{ range .Data.Pages }}
+        <a href="{{.Permalink}}"><span class="about__meta">{{.Date.Format "2006-01-02"}} | {{.Title}}</span></a>
+      {{ end }}
+  </main>
+
+  {{ partial "footer" . }}
+</div>

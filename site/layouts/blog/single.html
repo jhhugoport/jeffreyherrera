@@ -1,0 +1,20 @@
+{{ partial "head" . }}
+<div class="site">
+  {{ partial "header" . }}
+  <main class="main">
+    <div class="post">
+      <div class="post__header">
+        <div class="post__header--meta">
+          <h2>{{.Title}}</h2>
+          <p class="post__meta"><b>{{.Params.PostType}}</b> / {{.Date.Format "Monday, Jan 2, 2006"}}</p>
+        </div>
+      </div>
+      <div class="post__content">
+        {{ .Content }}
+      </div>
+      {{ partial "share" . }}
+    </div>
+  </main>
+
+  {{ partial "footer" . }}
+</div>

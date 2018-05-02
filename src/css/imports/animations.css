@@ -1,0 +1,22 @@
+
+/**********************************************************/
+/*********************** ANIMATIONS ***********************/
+/**********************************************************/
+
+@keyframes fadeSiteIn {
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+
+@keyframes bgfade {
+  from{
+    background-color: $background;
+  }
+  to{
+    background-color: $c-gray-dark;
+  }
+}

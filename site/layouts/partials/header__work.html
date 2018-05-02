@@ -1,0 +1,32 @@
+<input id="menu" type="checkbox"></input>
+<label for="menu" class="menu__symbol"><span></span></label>
+<header class="sidebar">
+  <div class="contact">
+    CONTACT
+    <a href="/letswork/" class="contact__link">New Business</a>
+    <a href="mailto:herrera.jeffrey@gmail.com?Subject=Hi There!" class="contact__link">General</a>
+  </div>
+  <nav class="nav">
+    <a href="/" class="nav__link">Work</a>
+    <a href="/about/" class="nav__link">About</a>
+    <a href="/blog/" class="nav__link">Blog</a>
+    <div class="work__nav">
+      {{ if .PrevInSection }}
+        <a class="work__nav--link" href="{{ .PrevInSection.Permalink }}" style="color: #{{.Params.color}}">Next Project</a>
+      {{ end }}
+      {{ if .NextInSection }}
+        <br>
+        <a class="work__nav--link" href="{{ .NextInSection.Permalink }}" style="color: #{{.Params.color}}">Previous Project</a>
+      {{ end }}
+      {{ if .Params.site }}
+        <br>
+        <a class="work__nav--link" href="{{.Params.site}}" style="color: #{{.Params.color}}">Visit Website</a>
+      {{end}}
+    </div>
+  </nav>
+  <div class="social">
+    FOLLOW
+    <a href="http://www.twitter.com/isthatjeff" class="social__link">Twitter</a>
+    <a href="http://www.instagram.com/_isthatjeff" class="social__link">Instagram</a>
+  </div>
+</header>

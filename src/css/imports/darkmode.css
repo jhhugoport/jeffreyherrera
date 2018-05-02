@@ -1,0 +1,48 @@
+
+/*********************************************************/
+/*********************** DARK MODE ***********************/
+/*********************************************************/
+
+.dark{
+  background-color: $c-gray-dark;
+  color: $c-text-darkbg;
+}
+
+html.js .dark{
+  animation: bgfade 1s ease forwards;
+}
+
+.dark a{
+  color: white;
+}
+
+.dark a:hover{
+  color: white;
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5{
+  color: white;
+}
+
+.dark .menu__symbol span,
+.dark .menu__symbol span::before,
+.dark .menu__symbol span::after{
+  background-color: white;
+}
+
+.dark #menu:checked ~ .sidebar{
+  background-color: $background;
+}
+
+.dark #menu:checked ~ .sidebar a{
+  color: $c-gray-dark;
+}
+
+.dark #menu:checked ~ .menu__symbol span::before,
+.dark #menu:checked ~ .menu__symbol span::after{
+  background-color: $c-gray-dark;
+}

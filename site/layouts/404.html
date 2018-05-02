@@ -1,0 +1,15 @@
+{{ $.Scratch.Add "dark" true }}
+
+{{ partial "head" . }}
+<div class="site">
+  {{ partial "header" . }}
+  <main class="main">
+    <div class="lost">
+      <h1>404!</h1>
+      <h2>Looks like someone's lost.</h2>
+      <p>That page doesn't exist, check to see if it was a typo, or use the navigation to go to a page that hasn't been swallowed by the vortex.</p>
+    </div>
+  </main>
+  <div class="lost-bg"></div>
+  {{ partial "footer" . }}
+</div>

@@ -1,0 +1,24 @@
+[1]
+name = "YouTube"
+url = "https://www.youtube.com/feed/subscriptions"
+[2]
+name = "Twitch"
+url = "https://www.twitch.tv/directory/following"
+[3]
+name = "Twitter"
+url = "https://mobile.twitter.com/"
+[4]
+name = "Amazon"
+url = "https://smile.amazon.com/"
+[5]
+name = "TV & Movies"
+url = "https://thewatchseries.us/new-release"
+[6]
+name = "Seamless"
+url = "http://www.seamless.com/"
+[7]
+name = "Netflix"
+url = "http://www.netflix.com"
+[8]
+name = "Raindrop"
+url = "http://raindrop.io/"
