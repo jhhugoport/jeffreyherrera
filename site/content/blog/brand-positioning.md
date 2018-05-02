@@ -1,7 +1,7 @@
 ---
 title: What Gronk's logo issues with Nike teaches us about brand positioning.
 PostType: Longform
-feature: /posts/brand-positioning/feature.jpg
+feature: /img/posts/brand-positioning/feature.jpg
 date: "2017-07-07"
 aliases:
   - /2017/07/07/what-gronk-s-logo-issues-with-nike-teaches-us-about-brand-positioning.html

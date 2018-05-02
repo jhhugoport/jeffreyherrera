@@ -1,7 +1,7 @@
 ---
 title: Aligning Single Points in Illustrator
 PostType: Quick Tips
-feature: /posts/direct-select/direct-select.gif
+feature: /img/posts/direct-select/direct-select.gif
 date: "2017-01-22"
 aliases:
   - /2017/06/22/aligning-single-points-in-illustrator.html
