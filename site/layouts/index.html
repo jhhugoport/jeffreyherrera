@@ -13,7 +13,7 @@
       {{ range .Data.Pages }}
         {{ if eq .Type "work" }}
 
-          <a href="{{.Permalink}}" class="work__item" style="background-image: url('/img/{{.Params.feature}}')">
+          <a href="{{.Permalink}}" class="work__item" style="background-image: url('{{.Params.feature}}')">
             <span class="work__overlay"></span>
             <div class="work__meta">
               <h4 class="work__meta--title">{{.Title}}</h4>
