@@ -17,7 +17,7 @@ The Raw Poets are a poetry collective based in New York City. The acronym stands
 Being a group of writers first, the pen serves as an icon for these wordsmiths. Find them <a href="http://www.rawpoets.com" target="_blank">here</a>
 </p>
 <br>
-<img src="/img/project-6/1.png" />
+<img src="/img/project-6/1.jpg" />
 
 <!-- <img src="/img/project-6/2.jpg" /> -->
 
