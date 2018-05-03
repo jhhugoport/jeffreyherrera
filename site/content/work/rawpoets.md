@@ -53,6 +53,9 @@ RAW Love is a series of poetry mixtapes/albums released around valentine's day e
 
 <br><br>
 <h5 style="color: #F4AA5D">Event Flyers</h5>
+<p>
+The RAW Poets, known for their live shows and performances, curate experiences all over New York City to bring poetry into intimate urban environments.</a>
+</p>
 
 <br><br>
 
