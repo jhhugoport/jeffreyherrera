@@ -33,10 +33,10 @@ RAW Love is a series of poetry mixtapes/albums released around valentine's day e
 
 <div class="image__half">
     <div class="half">
-        <img src="/img/project-6/rawlove4.jpg"  />
+        <img src="/img/project-6/rawlove3.jpg"  />
     </div>
     <div class="half">
-        <img src="/img/project-6/rawlove5.jpg"  />
+        <img src="/img/project-6/rawlove4.jpg"  />
     </div>
 </div>
 
@@ -46,5 +46,26 @@ RAW Love is a series of poetry mixtapes/albums released around valentine's day e
     </div>
     <div class="half">
         <img src="/img/project-6/rawlove7.jpg"  />
+    </div>
+</div>
+
+<br><br>
+<h5 style="color: #F4AA5D">Event Flyers</h5>
+
+<div class="image__half">
+    <div class="half">
+        <img src="/img/project-6/raw99.jpg"  />
+    </div>
+    <div class="half">
+        <img src="/img/project-6/speakeasy2.jpg"  />
+    </div>
+</div>
+
+<div class="image__half">
+    <div class="half">
+        <img src="/img/project-6/homebrewed.jpg"  />
+    </div>
+    <div class="half">
+        <img src="/img/project-6/loveletters.jpg"  />
     </div>
 </div>
