@@ -25,6 +25,12 @@ Being a group of writers first, the pen serves as an icon for these wordsmiths. 
 	<source type="video/mp4" src="/img/project-6/rawwebsite.mp4">
 </video>
 
+<br><br>
+<h5 style="color: #F4AA5D">RAW Love</h5>
+<p>
+RAW Love is a series of poetry mixtapes/albums released around valentine's day every year. <a href="http://www.rawpoets.com/rawlove">Listen to the projects here</a>
+</p>
+
 <div class="image__half">
     <div class="half">
         <img src="/img/project-6/rawlove4.jpg"  />
