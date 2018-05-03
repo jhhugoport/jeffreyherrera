@@ -24,3 +24,21 @@ Being a group of writers first, the pen serves as an icon for these wordsmiths. 
 <video playsinline autoplay muted loop width="100%">
 	<source type="video/mp4" src="/img/project-6/rawwebsite.mp4">
 </video>
+
+<div class="image__half">
+    <div class="half">
+        <img src="/img/project-6/rawlove4.jpg"  />
+    </div>
+    <div class="half">
+        <img src="/img/project-6/rawlove5.jpg"  />
+    </div>
+</div>
+
+<div class="image__half">
+    <div class="half">
+        <img src="/img/project-6/rawlove6.jpg"  />
+    </div>
+    <div class="half">
+        <img src="/img/project-6/rawlove7.jpg"  />
+    </div>
+</div>
