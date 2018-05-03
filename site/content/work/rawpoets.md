@@ -31,6 +31,8 @@ Being a group of writers first, the pen serves as an icon for these wordsmiths. 
 RAW Love is a series of poetry mixtapes/albums released around valentine's day every year. <a href="http://www.rawpoets.com/rawlove">Listen to the projects here</a>
 </p>
 
+<br><br>
+
 <div class="image__half">
     <div class="half">
         <img src="/img/project-6/rawlove3.jpg"  />
@@ -51,6 +53,8 @@ RAW Love is a series of poetry mixtapes/albums released around valentine's day e
 
 <br><br>
 <h5 style="color: #F4AA5D">Event Flyers</h5>
+
+<br><br>
 
 <div class="image__half">
     <div class="half">
