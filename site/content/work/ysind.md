@@ -2,14 +2,13 @@
 title: Your Screen is Not Dead
 description: Web Design / Development / Branding
 url: /yourscreenisnotdead/
-cover: "yourscreenisnotdead"
-feature: /img/yourscreenisnotdead.jpg
 color: 165EF6
-site: http://www.yourscreenisnotdead.com
 weight: 8
+site: 'http://www.yourscreenisnotdead.com'
+feature: /img/yourscreenisnotdead.jpg
 ---
-
 <br><br>
+
 <h5 style="color: #165EF6">Background</h5>
 <p>
 Your Screen Is Not Dead is a weekly podcast all about film. Every week the hosts announce a film to watch, then they talk about it.
@@ -28,6 +27,9 @@ Find them <a href="http://www.yourscreenisnotdead.com" target="_blank">here</a><
 <div class="image__half">
 <img class="half" src="/img/project-5/Rollover1.png" />
 <img class="half" src="/img/project-5/Rollover2.png" />
+</div>
+
+<div class="image__half">
 <img class="half" src="/img/project-5/Rollover3.png" />
 <img class="half" src="/img/project-5/Rollover4.png" />
 </div>
