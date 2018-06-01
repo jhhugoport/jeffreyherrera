@@ -1,7 +1,8 @@
 ---
 title: Monthly Playlists
+PostType: Monthly Project
 date: '2018-03-27'
-feature: /img/uploads/may.jpg
+feature: /img/posts/playlists/Latest.jpg
 ---
 I’ve been creating monthly playlists for 2018! Not necessarily new music– but music I listened to a lot, or discovered, that month.
 <br><br>
