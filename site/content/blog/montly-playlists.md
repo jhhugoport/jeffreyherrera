@@ -8,7 +8,7 @@ I’ve been creating monthly playlists for 2018! Not necessarily new music– bu
 
 \#### \*\*May\*\*
 
-<iframe src="https://open.spotify.com/embed/user/121523262/playlist/1c7tGKYJXHEjj28AP88YWo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/user/121523262/playlist/1c7tGKYJXHEjj28AP88YWo" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br><br>
 
@@ -17,17 +17,17 @@ I’ve been creating monthly playlists for 2018! Not necessarily new music– bu
 <iframe src="https://open.spotify.com/embed/user/121523262/playlist/2T8NwQebAmmzKPa6mxIS1s"
               width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br><br>
-#### \*\*March\*\*
+#### \\*\\*March\\*\\*
 
 <iframe src="https://open.spotify.com/embed/user/121523262/playlist/3CTptDhoyLtpq2bKZt7Rxn"
               width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br><br>
-#### \*\*February\*\*
+#### \\*\\*February\\*\\*
 
 <iframe src="https://open.spotify.com/embed/user/121523262/playlist/4RZnzHYnXFL4eaZBajbFW8"
               width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br><br>
-#### \*\*January\*\*
+#### \\*\\*January\\*\\*
 
 <iframe src="https://open.spotify.com/embed/user/121523262/playlist/6xXezy3Cxh9k1HL60yG8d9"
               width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
