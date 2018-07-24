@@ -1,13 +1,24 @@
 ---
 title: Monthly Playlists
-PostType: Monthly Project
 date: '2018-03-27'
-feature: /img/posts/playlists/Latest.jpg
+feature: /img/uploads/jul.jpg
 ---
 I’ve been creating monthly playlists for 2018! Not necessarily new music– but music I listened to a lot, or discovered, that month.
 <br><br>
 
-#### **May**   
+#### **July**
+
+<iframe src="https://open.spotify.com/embed/user/121523262/playlist/2jIiu5hdzVaC0HZXrttVSp" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br><br>
+
+#### **June**
+
+<iframe src="https://open.spotify.com/embed/user/121523262/playlist/6o0RhaqVProzNybGYRkvUK" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br><br>
+
+#### **May**
 
 <iframe src="https://open.spotify.com/embed/user/121523262/playlist/1c7tGKYJXHEjj28AP88YWo" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
