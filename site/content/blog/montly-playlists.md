@@ -6,6 +6,12 @@ feature: /img/uploads/jul.jpg
 I’ve been creating monthly playlists for 2018! Not necessarily new music– but music I listened to a lot, or discovered, that month.
 <br><br>
 
+#### **August**
+
+<iframe src="https://open.spotify.com/embed/user/121523262/playlist/60aHzu4i3epYBVqvAX5wXC" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br><br>
+
 #### **July**
 
 <iframe src="https://open.spotify.com/embed/user/121523262/playlist/2jIiu5hdzVaC0HZXrttVSp" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
